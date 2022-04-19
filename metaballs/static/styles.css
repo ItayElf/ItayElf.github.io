@@ -1,0 +1,11 @@
+body {
+  height: 98vh;
+  background-color: #121212;
+}
+
+#canvas {
+  /* outline: black 2px solid; */
+  margin: auto;
+  height: 100%;
+  width: 100%;
+}
